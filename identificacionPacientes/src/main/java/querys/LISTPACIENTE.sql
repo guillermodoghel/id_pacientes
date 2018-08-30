@@ -1,0 +1,1 @@
+select id, nombre, apellido, fechanac, dni, desconocido from paciente

@@ -1,0 +1,1 @@
+INSERT INTO paciente (nombre, apellido, fechanac, dni, hash,desconocido,fotohumano,fotodocumento,huellaAdmision,hullaAdmisionTipo,nhc, obvservacionesalta ) VALUES (?, ?, ?, ?, ?,?,?,?,?,?,?,?);

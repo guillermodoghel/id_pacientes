@@ -1,0 +1,1 @@
+INSERT INTO `huellasTemplates` (`pacienteid`, `pacientehuellaid`, `uno`, `dos`, `tres`, `cuatro`, `cinco`) VALUES (?,?,?,?,?,?, NULL);
